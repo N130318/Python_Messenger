@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/30128079/how-to-send-end-of-file-without-closing-tcp-socket
+how to notify file sending done in python without socket shutdown
